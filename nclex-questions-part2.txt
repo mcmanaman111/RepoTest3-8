@@ -1,0 +1,129 @@
+11. A nurse is teaching a client about lifestyle modifications to reduce cardiovascular disease risk. Which client statement indicates understanding?
+    A. I will walk briskly for 30 minutes five days a week (CORRECT)
+    B. I will do weight training exercises every day
+    C. I will walk for one hour once a week
+    D. I will exercise until I cannot carry on a conversation
+
+    Explanation:
+    - Correct: Regular aerobic exercise for 30 minutes most days is recommended.
+    - Incorrect: Weight training alone is not most effective for cardiovascular health.
+    - Incorrect: Walking once a week is insufficient for cardiovascular benefits.
+    - Incorrect: Exercise that prevents conversation is too strenuous.
+
+12. A nurse is caring for a client experiencing anxiety. Which interventions are appropriate? Select all that apply.
+    A. Speak in a calm, reassuring manner (CORRECT)
+    B. Remain with the client (CORRECT)
+    C. Provide simple, clear explanations (CORRECT)
+    D. Teach deep breathing techniques (CORRECT)
+    E. Tell the client to calm down
+
+    Explanation:
+    - Correct: Speaking calmly helps reduce anxiety.
+    - Correct: Remaining with the client provides support and security.
+    - Correct: Simple explanations help reduce confusion and anxiety.
+    - Correct: Deep breathing techniques help reduce anxiety symptoms.
+    - Incorrect: Telling a client to calm down may increase anxiety.
+
+13. A nurse is caring for a client who has been immobile for 3 days. Which intervention is most important for preventing pressure ulcers?
+    A. Reposition client every 2 hours (CORRECT)
+    B. Apply moisturizer to dry skin
+    C. Massage bony prominences
+    D. Provide high-protein supplements
+
+    Explanation:
+    - Correct: Regular repositioning is the most effective pressure ulcer prevention.
+    - Incorrect: While important, moisturizing alone is not most effective.
+    - Incorrect: Massage of bony prominences is contraindicated.
+    - Incorrect: While important, nutrition alone is not the immediate priority.
+
+14. A nurse is preparing to administer insulin. Which actions are appropriate? Select all that apply.
+    A. Check blood glucose level (CORRECT)
+    B. Verify insulin type and dose (CORRECT)
+    C. Rotate injection sites (CORRECT)
+    D. Document injection site (CORRECT)
+    E. Massage the injection site
+
+    Explanation:
+    - Correct: Blood glucose checking is essential for safe insulin therapy.
+    - Correct: Verifying insulin type/dose is a critical safety step.
+    - Correct: Site rotation prevents lipohypertrophy.
+    - Correct: Documentation helps ensure proper rotation.
+    - Incorrect: Massage can affect insulin absorption.
+
+15. A client's arterial blood gas results show: pH 7.30, PaCO2 52 mmHg, HCO3 25 mEq/L. Which condition does this indicate?
+    A. Respiratory acidosis (CORRECT)
+    B. Respiratory alkalosis
+    C. Metabolic acidosis
+    D. Metabolic alkalosis
+
+    Explanation:
+    - Correct: Elevated PaCO2 with normal HCO3 indicates respiratory acidosis.
+    - Incorrect: Respiratory alkalosis would show decreased PaCO2.
+    - Incorrect: Metabolic acidosis would show decreased HCO3.
+    - Incorrect: Metabolic alkalosis would show elevated HCO3.
+
+16. A client is admitted with acute pancreatitis. Which assessment findings would the nurse expect? Select all that apply.
+    A. Epigastric pain radiating to the back (CORRECT)
+    B. Nausea and vomiting (CORRECT)
+    C. Elevated serum amylase and lipase (CORRECT)
+    D. Decreased bowel sounds (CORRECT)
+    E. Increased appetite
+
+    Explanation:
+    - Correct: Epigastric pain radiation is a classic symptom.
+    - Correct: Nausea/vomiting occur due to inflammation.
+    - Correct: Elevated enzymes are diagnostic indicators.
+    - Correct: Decreased bowel sounds occur due to inflammation.
+    - Incorrect: Appetite is typically decreased in pancreatitis.
+
+17. A nurse is caring for 6 clients. Which client should the nurse assess first?
+    A. Client reporting new onset chest pain (CORRECT)
+    B. Client due for scheduled medications
+    C. Client needing routine vital signs
+    D. Client awaiting discharge teaching
+
+    Explanation:
+    - Correct: New chest pain could indicate a life-threatening condition.
+    - Incorrect: Scheduled medications can briefly wait.
+    - Incorrect: Routine vitals can be delayed.
+    - Incorrect: Discharge teaching can be delayed.
+
+18. A nurse is implementing fall precautions. Which interventions should be included? Select all that apply.
+    A. Keep bed in lowest position (CORRECT)
+    B. Ensure call light is within reach (CORRECT)
+    C. Provide non-slip footwear (CORRECT)
+    D. Keep personal items within reach (CORRECT)
+    E. Raise all side rails
+
+    Explanation:
+    - Correct: Low bed position reduces injury risk.
+    - Correct: Accessible call light allows requesting assistance.
+    - Correct: Non-slip footwear prevents falls.
+    - Correct: Accessible items reduce risky reaching.
+    - Incorrect: Raised side rails may increase fall risk.
+
+19. A nurse is teaching about osteoporosis prevention. Which client statement indicates understanding?
+    A. I will do weight-bearing exercises and take calcium with vitamin D daily (CORRECT)
+    B. I will swim laps three times a week
+    C. I will take calcium supplements alone
+    D. I will walk for 30 minutes daily
+
+    Explanation:
+    - Correct: Weight-bearing exercise plus calcium/vitamin D is optimal.
+    - Incorrect: Swimming is not weight-bearing.
+    - Incorrect: Calcium alone without vitamin D is not as effective.
+    - Incorrect: Walking alone without strength training is not optimal.
+
+20. A nurse is caring for a grieving client. Which interventions are appropriate? Select all that apply.
+    A. Practice active listening (CORRECT)
+    B. Allow periods of silence (CORRECT)
+    C. Encourage expression of feelings (CORRECT)
+    D. Provide presence (CORRECT)
+    E. Tell client not to cry
+
+    Explanation:
+    - Correct: Active listening demonstrates support.
+    - Correct: Silence allows processing emotions.
+    - Correct: Expressing feelings helps grieving.
+    - Correct: Presence shows support.
+    - Incorrect: Telling client not to cry invalidates feelings.

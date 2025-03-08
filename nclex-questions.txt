@@ -1,0 +1,133 @@
+NCLEX Practice Questions
+
+1. The charge nurse is making assignments for the day shift. Which task should be delegated to the unlicensed assistive personnel (UAP)?
+   A. Performing initial patient assessment
+   B. Measuring and recording vital signs (CORRECT)
+   C. Administering IV medications
+   D. Teaching about medication side effects
+
+   Explanation:
+   - Correct: Measuring and recording vital signs is within the scope of practice for UAPs. They are trained to perform this task accurately and report abnormal findings to the RN.
+   - Incorrect: Initial assessment must be performed by the RN as it requires clinical judgment.
+   - Incorrect: IV medication administration requires nursing judgment and is not within UAP scope.
+   - Incorrect: Patient teaching requires nursing knowledge and judgment.
+
+2. A nurse is caring for a patient in contact isolation. Which items should the nurse gather before entering the room? Select all that apply.
+   A. Disposable gloves (CORRECT)
+   B. Isolation gown (CORRECT)
+   C. N95 respirator
+   D. Hand sanitizer (CORRECT)
+   E. Shoe covers
+
+   Explanation:
+   - Correct: Gloves are required for contact precautions to prevent transmission of organisms.
+   - Correct: A gown protects clothing from contamination during patient care.
+   - Incorrect: An N95 respirator is not required for contact isolation.
+   - Correct: Hand sanitizer is essential for hand hygiene before and after patient contact.
+   - Incorrect: Shoe covers are not routinely required for contact precautions.
+
+3. A nurse is teaching a client about breast self-examination (BSE). Which statements should the nurse include? Select all that apply.
+   A. BSE should be performed at the same time each month, about 7-10 days after menstruation begins (CORRECT)
+   B. The examination should be performed both lying down and standing up (CORRECT)
+   C. Any new lumps, changes in breast size/shape, or nipple discharge should be reported to healthcare provider (CORRECT)
+   D. BSE is not recommended for women over 65 years old
+   E. BSE should be performed only when experiencing breast pain
+
+   Explanation:
+   - Correct: Monthly BSE should be performed consistently at the same time.
+   - Correct: Different positions help detect changes in breast tissue.
+   - Correct: Any changes should be reported promptly for evaluation.
+   - Incorrect: BSE is recommended for women of all ages.
+   - Incorrect: BSE should be performed regularly, not just when symptomatic.
+
+4. A client diagnosed with major depression states, "I'm worthless and everyone would be better off without me." Which is the most appropriate initial nursing response?
+   A. Tell me more about these thoughts. Are you thinking about hurting yourself? (CORRECT)
+   B. You have so much to live for. Think about your family.
+   C. I need to call your doctor right away.
+   D. Let's talk about your plans for when you leave the hospital.
+
+   Explanation:
+   - Correct: This response directly addresses the client's suicidal ideation while showing concern and encouraging further discussion.
+   - Incorrect: Telling the client they have much to live for minimizes their feelings.
+   - Incorrect: Immediately calling for help without assessment may break trust.
+   - Incorrect: Changing the subject avoids addressing the serious nature of the statement.
+
+5. A nurse is caring for a client who has been NPO for 24 hours. Which assessment finding should be reported to the healthcare provider immediately?
+   A. Urine output of 25 mL/hr (CORRECT)
+   B. Dry oral mucosa
+   C. Reports of thirst
+   D. Clear urine
+
+   Explanation:
+   - Correct: Urine output less than 30 mL/hr indicates potential dehydration and requires immediate intervention.
+   - Incorrect: Dry oral mucosa is an expected finding in an NPO patient.
+   - Incorrect: Reports of thirst are expected when NPO.
+   - Incorrect: Clear urine indicates adequate hydration.
+
+6. A nurse is preparing to administer warfarin (Coumadin). Which assessments should be performed before administration? Select all that apply.
+   A. Check most recent PT/INR result (CORRECT)
+   B. Assess for signs of bleeding (CORRECT)
+   C. Review medication changes (CORRECT)
+   D. Check blood pressure
+   E. Auscultate lung sounds
+
+   Explanation:
+   - Correct: PT/INR must be checked as it indicates blood's clotting ability.
+   - Correct: Signs of bleeding must be assessed due to increased bleeding risk.
+   - Correct: Medication changes could affect warfarin's effectiveness.
+   - Incorrect: Blood pressure is not directly related to warfarin administration.
+   - Incorrect: Lung sounds are not specifically related to warfarin.
+
+7. A client's serum potassium level is 6.5 mEq/L. Which ECG change should the nurse expect to observe?
+   A. Peaked T waves (CORRECT)
+   B. Flattened T waves
+   C. Prolonged PR interval
+   D. ST segment elevation
+
+   Explanation:
+   - Correct: Peaked T waves are the earliest ECG change seen in hyperkalemia.
+   - Incorrect: Flattened T waves are associated with hypokalemia.
+   - Incorrect: Prolonged PR interval is not typical of early hyperkalemia.
+   - Incorrect: ST segment elevation is not characteristic of hyperkalemia.
+
+8. A client is admitted with diabetic ketoacidosis (DKA). Which assessment findings would the nurse expect? Select all that apply.
+   A. Kussmaul respirations (CORRECT)
+   B. Polyuria (CORRECT)
+   C. Fruity breath odor (CORRECT)
+   D. Excessive thirst (CORRECT)
+   E. Bradycardia
+
+   Explanation:
+   - Correct: Kussmaul respirations are a compensatory mechanism for metabolic acidosis.
+   - Correct: Polyuria occurs due to osmotic diuresis from hyperglycemia.
+   - Correct: Fruity breath odor is caused by ketone production.
+   - Correct: Excessive thirst results from fluid loss and hyperglycemia.
+   - Incorrect: Bradycardia is not associated with DKA; tachycardia is more common.
+
+9. A charge nurse is assigning tasks to team members. Which tasks are appropriate to delegate to a licensed practical nurse (LPN)? Select all that apply.
+   A. Administering oral medications (CORRECT)
+   B. Changing sterile dressings (CORRECT)
+   C. Documenting vital signs (CORRECT)
+   D. Performing initial patient assessment
+   E. Developing the nursing care plan
+
+   Explanation:
+   - Correct: Administering oral medications is within LPN scope of practice.
+   - Correct: Changing sterile dressings is within LPN scope of practice.
+   - Correct: Documenting vital signs is within LPN scope of practice.
+   - Incorrect: Initial assessment must be performed by an RN.
+   - Incorrect: Care planning requires RN assessment and judgment.
+
+10. A nurse is caring for a client with neutropenia. Which intervention has the highest priority for preventing infection?
+    A. Performing hand hygiene before entering the room (CORRECT)
+    B. Placing the client in a private room
+    C. Wearing a mask when entering the room
+    D. Restricting fresh flowers in the room
+
+    Explanation:
+    - Correct: Hand hygiene is the most effective method for preventing infection spread.
+    - Incorrect: While important, a private room is not the highest priority.
+    - Incorrect: Wearing a mask is important but not the highest priority.
+    - Incorrect: Restricting flowers is important but not the highest priority.
+
+[Continued in Part 2...]
